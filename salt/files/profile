@@ -1,0 +1,2 @@
+jp2a --colors --background=light /etc/profile.d/logo.jpg --width=76
+figlet Welcome to {{ grains['nodename'] }}
